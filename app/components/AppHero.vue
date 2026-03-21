@@ -1,5 +1,5 @@
 <template>
-  <section class="hero">
+  <section class="hero" id="hero">
     <div class="hero__content">
       <h2 class="hero__title">A Base Forte para a <span>Sua Obra</span></h2>
       <p class="hero__description">

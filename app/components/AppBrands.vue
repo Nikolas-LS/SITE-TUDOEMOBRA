@@ -1,5 +1,5 @@
 <template>
-  <section class="brands">
+  <section class="brands" id="brands">
     <div class="brands__header">
       <h2>Trabalhamos com as <span>Melhores Marcas</span></h2>
     </div>
